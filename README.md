@@ -8,15 +8,11 @@
 - Seeed XIAO RP2040 microcontroller  
 - Custom PCB and enclosure  
 
----
-
 ## Overall Hackpad
 
 ![Hackpad](Assets/hackpad.png)
 
 Custom macropad with integrated OLED display and rotary encoder, designed for compact input and programmable controls.
-
----
 
 ## Schematic
 
@@ -24,15 +20,11 @@ Custom macropad with integrated OLED display and rotary encoder, designed for co
 
 Matrix-based key layout with diode protection, connected to the XIAO RP2040 along with an I2C OLED display and rotary encoder.
 
----
-
 ## PCB
 
 ![PCB](Assets/pcb.png)
 
 Custom PCB designed in KiCad with routed traces for the key matrix, encoder, and display connections.
-
----
 
 ## Case
 
@@ -40,8 +32,6 @@ Custom PCB designed in KiCad with routed traces for the key matrix, encoder, and
 ![Case Back](Assets/case_back.png)
 
 Two-part enclosure designed to house the PCB securely, with cutouts for switches, encoder, and display, along with a decorative top surface.
-
----
 
 ## Bill of Materials (BOM)
 
