@@ -1,7 +1,5 @@
 # shresth_macropad
 
-![shresth_macropad](imgur.com image replace me!)
-
 *Insidde of here there are 3 folders:*
 *config.h : This is a file for the keyboard's firmware*
 *keyboard.json: This is another keyboard firware file*
