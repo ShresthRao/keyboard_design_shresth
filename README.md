@@ -12,7 +12,7 @@
 
 ## Overall Hackpad
 
-![Hackpad](images/hackpad.png)
+![Hackpad](Assets/hackpad.png)
 
 Custom macropad with integrated OLED display and rotary encoder, designed for compact input and programmable controls.
 
@@ -20,7 +20,7 @@ Custom macropad with integrated OLED display and rotary encoder, designed for co
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](Assets/schematic.png)
 
 Matrix-based key layout with diode protection, connected to the XIAO RP2040 along with an I2C OLED display and rotary encoder.
 
@@ -28,7 +28,7 @@ Matrix-based key layout with diode protection, connected to the XIAO RP2040 alon
 
 ## PCB
 
-![PCB](images/pcb.png)
+![PCB](Assets/pcb.png)
 
 Custom PCB designed in KiCad with routed traces for the key matrix, encoder, and display connections.
 
@@ -36,8 +36,8 @@ Custom PCB designed in KiCad with routed traces for the key matrix, encoder, and
 
 ## Case
 
-![Case Front](images/case_front.png)
-![Case Back](images/case_back.png)
+![Case Front](Assets/case_front.png)
+![Case Back](Assets/case_back.png)
 
 Two-part enclosure designed to house the PCB securely, with cutouts for switches, encoder, and display, along with a decorative top surface.
 
